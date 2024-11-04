@@ -62,4 +62,6 @@ This Car Sales Dashboard project demonstrates my expertise in **Power BI**, **DA
 Thank you for exploring my project! For any inquiries, feel free to reach out.
 
 ![image](https://github.com/user-attachments/assets/cc386ab0-3fad-4984-a941-da4033506d0a)
+![image](https://github.com/user-attachments/assets/44baf2c2-1aa6-4ee6-9d93-5061204a3605)
+
 
